@@ -1,0 +1,142 @@
+{
+  "node": {
+    "4e350a70cb8490a34f2044518ed84ee4d9c20b17": {
+      "workers": {
+        "app/(root)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fblackbunny%2FBunnyReact%2Fprompts_daily%2Flib%2Factions%2Fevent.actions.ts%22%2C%5B%22getEventById%22%2C%22getEventsByUser%22%2C%22deleteEvent%22%2C%22getRelatedEventsByCategory%22%2C%22getAllEvents%22%2C%22createEvent%22%2C%22updateEvent%22%5D%5D%5D&__client_imported__=!",
+        "app/(root)/events/create/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fblackbunny%2FBunnyReact%2Fprompts_daily%2Flib%2Factions%2Fcategory.actions.ts%22%2C%5B%22getAllCategories%22%2C%22createCategory%22%5D%5D%2C%5B%22%2FUsers%2Fblackbunny%2FBunnyReact%2Fprompts_daily%2Flib%2Factions%2Fevent.actions.ts%22%2C%5B%22getEventById%22%2C%22getEventsByUser%22%2C%22deleteEvent%22%2C%22getRelatedEventsByCategory%22%2C%22getAllEvents%22%2C%22createEvent%22%2C%22updateEvent%22%5D%5D%5D&__client_imported__=true!",
+        "app/(root)/events/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fblackbunny%2FBunnyReact%2Fprompts_daily%2Flib%2Factions%2Fevent.actions.ts%22%2C%5B%22getEventById%22%2C%22getEventsByUser%22%2C%22deleteEvent%22%2C%22getRelatedEventsByCategory%22%2C%22getAllEvents%22%2C%22createEvent%22%2C%22updateEvent%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(root)/page": "rsc",
+        "app/(root)/events/create/page": "action-browser",
+        "app/(root)/events/[id]/page": "rsc"
+      }
+    },
+    "88b9ed647b8ac4e0b59653b4e7bdb73a3c5aa8ae": {
+      "workers": {
+        "app/(root)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fblackbunny%2FBunnyReact%2Fprompts_daily%2Flib%2Factions%2Fevent.actions.ts%22%2C%5B%22getEventById%22%2C%22getEventsByUser%22%2C%22deleteEvent%22%2C%22getRelatedEventsByCategory%22%2C%22getAllEvents%22%2C%22createEvent%22%2C%22updateEvent%22%5D%5D%5D&__client_imported__=!",
+        "app/(root)/events/create/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fblackbunny%2FBunnyReact%2Fprompts_daily%2Flib%2Factions%2Fcategory.actions.ts%22%2C%5B%22getAllCategories%22%2C%22createCategory%22%5D%5D%2C%5B%22%2FUsers%2Fblackbunny%2FBunnyReact%2Fprompts_daily%2Flib%2Factions%2Fevent.actions.ts%22%2C%5B%22getEventById%22%2C%22getEventsByUser%22%2C%22deleteEvent%22%2C%22getRelatedEventsByCategory%22%2C%22getAllEvents%22%2C%22createEvent%22%2C%22updateEvent%22%5D%5D%5D&__client_imported__=true!",
+        "app/(root)/events/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fblackbunny%2FBunnyReact%2Fprompts_daily%2Flib%2Factions%2Fevent.actions.ts%22%2C%5B%22getEventById%22%2C%22getEventsByUser%22%2C%22deleteEvent%22%2C%22getRelatedEventsByCategory%22%2C%22getAllEvents%22%2C%22createEvent%22%2C%22updateEvent%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(root)/page": "rsc",
+        "app/(root)/events/create/page": "action-browser",
+        "app/(root)/events/[id]/page": "rsc"
+      }
+    },
+    "b9580fcbe5d01e2319305a4c43f39a0319345322": {
+      "workers": {
+        "app/(root)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fblackbunny%2FBunnyReact%2Fprompts_daily%2Flib%2Factions%2Fevent.actions.ts%22%2C%5B%22getEventById%22%2C%22getEventsByUser%22%2C%22deleteEvent%22%2C%22getRelatedEventsByCategory%22%2C%22getAllEvents%22%2C%22createEvent%22%2C%22updateEvent%22%5D%5D%5D&__client_imported__=!",
+        "app/(root)/events/create/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fblackbunny%2FBunnyReact%2Fprompts_daily%2Flib%2Factions%2Fcategory.actions.ts%22%2C%5B%22getAllCategories%22%2C%22createCategory%22%5D%5D%2C%5B%22%2FUsers%2Fblackbunny%2FBunnyReact%2Fprompts_daily%2Flib%2Factions%2Fevent.actions.ts%22%2C%5B%22getEventById%22%2C%22getEventsByUser%22%2C%22deleteEvent%22%2C%22getRelatedEventsByCategory%22%2C%22getAllEvents%22%2C%22createEvent%22%2C%22updateEvent%22%5D%5D%5D&__client_imported__=true!",
+        "app/(root)/events/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fblackbunny%2FBunnyReact%2Fprompts_daily%2Flib%2Factions%2Fevent.actions.ts%22%2C%5B%22getEventById%22%2C%22getEventsByUser%22%2C%22deleteEvent%22%2C%22getRelatedEventsByCategory%22%2C%22getAllEvents%22%2C%22createEvent%22%2C%22updateEvent%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(root)/page": "rsc",
+        "app/(root)/events/create/page": "action-browser",
+        "app/(root)/events/[id]/page": "rsc"
+      }
+    },
+    "db57618b66e115a7ca2e9facfe49c70ad22f8db1": {
+      "workers": {
+        "app/(root)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fblackbunny%2FBunnyReact%2Fprompts_daily%2Flib%2Factions%2Fevent.actions.ts%22%2C%5B%22getEventById%22%2C%22getEventsByUser%22%2C%22deleteEvent%22%2C%22getRelatedEventsByCategory%22%2C%22getAllEvents%22%2C%22createEvent%22%2C%22updateEvent%22%5D%5D%5D&__client_imported__=!",
+        "app/(root)/events/create/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fblackbunny%2FBunnyReact%2Fprompts_daily%2Flib%2Factions%2Fcategory.actions.ts%22%2C%5B%22getAllCategories%22%2C%22createCategory%22%5D%5D%2C%5B%22%2FUsers%2Fblackbunny%2FBunnyReact%2Fprompts_daily%2Flib%2Factions%2Fevent.actions.ts%22%2C%5B%22getEventById%22%2C%22getEventsByUser%22%2C%22deleteEvent%22%2C%22getRelatedEventsByCategory%22%2C%22getAllEvents%22%2C%22createEvent%22%2C%22updateEvent%22%5D%5D%5D&__client_imported__=true!",
+        "app/(root)/events/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fblackbunny%2FBunnyReact%2Fprompts_daily%2Flib%2Factions%2Fevent.actions.ts%22%2C%5B%22getEventById%22%2C%22getEventsByUser%22%2C%22deleteEvent%22%2C%22getRelatedEventsByCategory%22%2C%22getAllEvents%22%2C%22createEvent%22%2C%22updateEvent%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(root)/page": "rsc",
+        "app/(root)/events/create/page": "action-browser",
+        "app/(root)/events/[id]/page": "rsc"
+      }
+    },
+    "e5cfc1ddd7a46345c38e073d1c0ce0b7821f99dd": {
+      "workers": {
+        "app/(root)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fblackbunny%2FBunnyReact%2Fprompts_daily%2Flib%2Factions%2Fevent.actions.ts%22%2C%5B%22getEventById%22%2C%22getEventsByUser%22%2C%22deleteEvent%22%2C%22getRelatedEventsByCategory%22%2C%22getAllEvents%22%2C%22createEvent%22%2C%22updateEvent%22%5D%5D%5D&__client_imported__=!",
+        "app/(root)/events/create/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fblackbunny%2FBunnyReact%2Fprompts_daily%2Flib%2Factions%2Fcategory.actions.ts%22%2C%5B%22getAllCategories%22%2C%22createCategory%22%5D%5D%2C%5B%22%2FUsers%2Fblackbunny%2FBunnyReact%2Fprompts_daily%2Flib%2Factions%2Fevent.actions.ts%22%2C%5B%22getEventById%22%2C%22getEventsByUser%22%2C%22deleteEvent%22%2C%22getRelatedEventsByCategory%22%2C%22getAllEvents%22%2C%22createEvent%22%2C%22updateEvent%22%5D%5D%5D&__client_imported__=true!",
+        "app/(root)/events/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fblackbunny%2FBunnyReact%2Fprompts_daily%2Flib%2Factions%2Fevent.actions.ts%22%2C%5B%22getEventById%22%2C%22getEventsByUser%22%2C%22deleteEvent%22%2C%22getRelatedEventsByCategory%22%2C%22getAllEvents%22%2C%22createEvent%22%2C%22updateEvent%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(root)/page": "rsc",
+        "app/(root)/events/create/page": "action-browser",
+        "app/(root)/events/[id]/page": "rsc"
+      }
+    },
+    "f386c09431a61a59823879a5cc8b035812016514": {
+      "workers": {
+        "app/(root)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fblackbunny%2FBunnyReact%2Fprompts_daily%2Flib%2Factions%2Fevent.actions.ts%22%2C%5B%22getEventById%22%2C%22getEventsByUser%22%2C%22deleteEvent%22%2C%22getRelatedEventsByCategory%22%2C%22getAllEvents%22%2C%22createEvent%22%2C%22updateEvent%22%5D%5D%5D&__client_imported__=!",
+        "app/(root)/events/create/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fblackbunny%2FBunnyReact%2Fprompts_daily%2Flib%2Factions%2Fcategory.actions.ts%22%2C%5B%22getAllCategories%22%2C%22createCategory%22%5D%5D%2C%5B%22%2FUsers%2Fblackbunny%2FBunnyReact%2Fprompts_daily%2Flib%2Factions%2Fevent.actions.ts%22%2C%5B%22getEventById%22%2C%22getEventsByUser%22%2C%22deleteEvent%22%2C%22getRelatedEventsByCategory%22%2C%22getAllEvents%22%2C%22createEvent%22%2C%22updateEvent%22%5D%5D%5D&__client_imported__=true!",
+        "app/(root)/events/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fblackbunny%2FBunnyReact%2Fprompts_daily%2Flib%2Factions%2Fevent.actions.ts%22%2C%5B%22getEventById%22%2C%22getEventsByUser%22%2C%22deleteEvent%22%2C%22getRelatedEventsByCategory%22%2C%22getAllEvents%22%2C%22createEvent%22%2C%22updateEvent%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(root)/page": "rsc",
+        "app/(root)/events/create/page": "action-browser",
+        "app/(root)/events/[id]/page": "rsc"
+      }
+    },
+    "f883549084441e9916dae58db4643ed5183ebd68": {
+      "workers": {
+        "app/(root)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fblackbunny%2FBunnyReact%2Fprompts_daily%2Flib%2Factions%2Fevent.actions.ts%22%2C%5B%22getEventById%22%2C%22getEventsByUser%22%2C%22deleteEvent%22%2C%22getRelatedEventsByCategory%22%2C%22getAllEvents%22%2C%22createEvent%22%2C%22updateEvent%22%5D%5D%5D&__client_imported__=!",
+        "app/(root)/events/create/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fblackbunny%2FBunnyReact%2Fprompts_daily%2Flib%2Factions%2Fcategory.actions.ts%22%2C%5B%22getAllCategories%22%2C%22createCategory%22%5D%5D%2C%5B%22%2FUsers%2Fblackbunny%2FBunnyReact%2Fprompts_daily%2Flib%2Factions%2Fevent.actions.ts%22%2C%5B%22getEventById%22%2C%22getEventsByUser%22%2C%22deleteEvent%22%2C%22getRelatedEventsByCategory%22%2C%22getAllEvents%22%2C%22createEvent%22%2C%22updateEvent%22%5D%5D%5D&__client_imported__=true!",
+        "app/(root)/events/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fblackbunny%2FBunnyReact%2Fprompts_daily%2Flib%2Factions%2Fevent.actions.ts%22%2C%5B%22getEventById%22%2C%22getEventsByUser%22%2C%22deleteEvent%22%2C%22getRelatedEventsByCategory%22%2C%22getAllEvents%22%2C%22createEvent%22%2C%22updateEvent%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(root)/page": "rsc",
+        "app/(root)/events/create/page": "action-browser",
+        "app/(root)/events/[id]/page": "rsc"
+      }
+    },
+    "5054b2a424d1899063c618416882a42750c28907": {
+      "workers": {
+        "app/(root)/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fblackbunny%2FBunnyReact%2Fprompts_daily%2Flib%2Factions%2Fcategory.actions.ts%22%2C%5B%22getAllCategories%22%2C%22createCategory%22%5D%5D%5D&__client_imported__=true!",
+        "app/(root)/events/create/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fblackbunny%2FBunnyReact%2Fprompts_daily%2Flib%2Factions%2Fcategory.actions.ts%22%2C%5B%22getAllCategories%22%2C%22createCategory%22%5D%5D%2C%5B%22%2FUsers%2Fblackbunny%2FBunnyReact%2Fprompts_daily%2Flib%2Factions%2Fevent.actions.ts%22%2C%5B%22getEventById%22%2C%22getEventsByUser%22%2C%22deleteEvent%22%2C%22getRelatedEventsByCategory%22%2C%22getAllEvents%22%2C%22createEvent%22%2C%22updateEvent%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/(root)/page": "action-browser",
+        "app/(root)/events/create/page": "action-browser"
+      }
+    },
+    "ae98dfe3653a96710a0858cf7d96aeba505b34b2": {
+      "workers": {
+        "app/(root)/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fblackbunny%2FBunnyReact%2Fprompts_daily%2Flib%2Factions%2Fcategory.actions.ts%22%2C%5B%22getAllCategories%22%2C%22createCategory%22%5D%5D%5D&__client_imported__=true!",
+        "app/(root)/events/create/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fblackbunny%2FBunnyReact%2Fprompts_daily%2Flib%2Factions%2Fcategory.actions.ts%22%2C%5B%22getAllCategories%22%2C%22createCategory%22%5D%5D%2C%5B%22%2FUsers%2Fblackbunny%2FBunnyReact%2Fprompts_daily%2Flib%2Factions%2Fevent.actions.ts%22%2C%5B%22getEventById%22%2C%22getEventsByUser%22%2C%22deleteEvent%22%2C%22getRelatedEventsByCategory%22%2C%22getAllEvents%22%2C%22createEvent%22%2C%22updateEvent%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/(root)/page": "action-browser",
+        "app/(root)/events/create/page": "action-browser"
+      }
+    },
+    "06a9c4bcdfd4615be2829ee994cc7fc2a1365177": {
+      "workers": {
+        "app/(root)/events/[id]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fblackbunny%2FBunnyReact%2Fprompts_daily%2Flib%2Factions%2Forder.actions.ts%22%2C%5B%22getOrdersByUser%22%2C%22getOrdersByEvent%22%2C%22createOrder%22%2C%22checkoutOrder%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/(root)/events/[id]/page": "action-browser"
+      }
+    },
+    "88783d8e505e6e0278365587903b12a44387842d": {
+      "workers": {
+        "app/(root)/events/[id]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fblackbunny%2FBunnyReact%2Fprompts_daily%2Flib%2Factions%2Forder.actions.ts%22%2C%5B%22getOrdersByUser%22%2C%22getOrdersByEvent%22%2C%22createOrder%22%2C%22checkoutOrder%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/(root)/events/[id]/page": "action-browser"
+      }
+    },
+    "90e99ec77f495f2624b0340ff9204d2fa4c0bec4": {
+      "workers": {
+        "app/(root)/events/[id]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fblackbunny%2FBunnyReact%2Fprompts_daily%2Flib%2Factions%2Forder.actions.ts%22%2C%5B%22getOrdersByUser%22%2C%22getOrdersByEvent%22%2C%22createOrder%22%2C%22checkoutOrder%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/(root)/events/[id]/page": "action-browser"
+      }
+    },
+    "da70abf1c36ab107e88e35d3c33719f87a0fc9d8": {
+      "workers": {
+        "app/(root)/events/[id]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fblackbunny%2FBunnyReact%2Fprompts_daily%2Flib%2Factions%2Forder.actions.ts%22%2C%5B%22getOrdersByUser%22%2C%22getOrdersByEvent%22%2C%22createOrder%22%2C%22checkoutOrder%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/(root)/events/[id]/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "HrA4Z7zu29JU8/UpHmvqJ0XJ1v0X/qepYOn5IMoOHZI="
+}
