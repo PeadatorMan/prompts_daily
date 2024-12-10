@@ -2,7 +2,6 @@
 
 import { useCallback, Dispatch, SetStateAction } from 'react'
 import { generateReactHelpers } from '@uploadthing/react'
-
 import { useDropzone } from '@uploadthing/react/hooks'
 import { generateClientDropzoneAccept } from 'uploadthing/client'
 
