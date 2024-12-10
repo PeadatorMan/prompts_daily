@@ -22,7 +22,11 @@ const onDrop = useCallback((acceptedFiles: File[]) => {
 
   const { getRootProps, getInputProps } = useDropzone({
     onDrop,
-    accept: 'image/*' ? generateClientDropzoneAccept(['image/*']) : undefined,
+    //accept: 'image/*' ? generateClientDropzoneAccept(['image/*']) : undefined,
+    accept: {
+  'image/png': ['.png'], 
+  'image/jpeg': ['.jpg', '.jpeg'] 
+},
   })
 
   return (
