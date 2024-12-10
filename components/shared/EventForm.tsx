@@ -192,7 +192,7 @@ const EventForm = ({ userId, type, event, eventId }: EventFormProps) => {
                         <SelectContent>
                           <SelectItem value="Digital Illustration">Digital Illustration</SelectItem>
                           <SelectItem value="3D character">3D character</SelectItem>
-                          <SelectItem value="3D caracatured">3D caracatured</SelectItem>
+                          <SelectItem value="3D caricatured">3D caricatured</SelectItem>
                           <SelectItem value="2D Illustration">2D Illustration</SelectItem>
                           <SelectItem value="Photography">Photography</SelectItem>
                           <SelectItem value="Digital Art">Digital Art</SelectItem>
