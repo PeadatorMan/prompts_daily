@@ -21,6 +21,13 @@ import { Checkbox } from "../ui/checkbox"
 import { useRouter } from "next/navigation"
 import { createEvent, updateEvent } from "@/lib/actions/event.actions"
 import { IEvent } from "@/lib/database/models/event.model"
+import {
+  Select,
+  SelectContent,
+  SelectItem,
+  SelectTrigger,
+  SelectValue,
+} from "@/components/ui/select"
 
 
 
@@ -32,7 +39,7 @@ type EventFormProps = {
 }
 
 const EventForm = ({ userId, type, event, eventId }: EventFormProps) => {
-   const [position, setPosition] = useState("bottom")
+  const [position, setPosition] = useState("bottom")
   const [files, setFiles] = useState<File[]>([])
   const initialValues = event && type === 'Update' 
     ? { 
@@ -178,8 +185,22 @@ const EventForm = ({ userId, type, event, eventId }: EventFormProps) => {
                         width={24}
                         height={24}
                       />
-
-                      <Input placeholder="Prompt for" {...field} className="input-field" />
+                      <Select value={field.value} onValueChange={field.onChange} >
+                        <SelectTrigger className="w-full">
+                          <SelectValue placeholder="Theme" />
+                        </SelectTrigger>
+                        <SelectContent>
+                          <SelectItem value="Digital Illustration">Digital Illustration</SelectItem>
+                          <SelectItem value="3D character">3D character</SelectItem>
+                          <SelectItem value="3D caracatured">3D caracatured</SelectItem>
+                          <SelectItem value="2D Illustration">2D Illustration</SelectItem>
+                          <SelectItem value="Photography">Photography</SelectItem>
+                          <SelectItem value="Digital Art">Digital Art</SelectItem>
+                          <SelectItem value="2D Cartoon">2D Cartoon</SelectItem>
+                          <SelectItem value="Digital Painting">Digital Painting</SelectItem>
+                        </SelectContent>
+                      </Select>
+                      {/* <Input placeholder="Prompt for" {...field} className="input-field" /> */}
                     </div>
 
                   </FormControl>
