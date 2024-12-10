@@ -179,14 +179,14 @@ const EventForm = ({ userId, type, event, eventId }: EventFormProps) => {
                 <FormItem className="w-full">
                   <FormControl>
                     <div className="flex-center h-[54px] w-full overflow-hidden rounded-full bg-grey-50 px-4 py-2">
-                      <Image
+                      {/* <Image
                         src="/assets/icons/location-grey.svg"
                         alt="calendar"
                         width={24}
                         height={24}
-                      />
+                      /> */}
                       <Select value={field.value} onValueChange={field.onChange} >
-                        <SelectTrigger className="w-full">
+                        <SelectTrigger className="w-full select-field">
                           <SelectValue placeholder="Theme" />
                         </SelectTrigger>
                         <SelectContent>
