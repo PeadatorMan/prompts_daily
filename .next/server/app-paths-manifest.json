@@ -1,6 +1,5 @@
 {
-  "/api/uploadthing/route": "app/api/uploadthing/route.js",
-  "/(root)/events/create/page": "app/(root)/events/create/page.js",
+  "/(root)/page": "app/(root)/page.js",
   "/(root)/events/[id]/page": "app/(root)/events/[id]/page.js",
-  "/(root)/page": "app/(root)/page.js"
+  "/(root)/events/create/page": "app/(root)/events/create/page.js"
 }
