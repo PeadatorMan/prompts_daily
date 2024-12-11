@@ -29,9 +29,9 @@ const FetchCard = ({ event, hasOrderLink, hidePrice }: CardProps) => {
                 <Image src="/assets/icons/machine-learning.png" alt="organizer" width={20} height={20} />
                 {/* <span>{event.organizer.firstName} {event.organizer.lastName}</span> */}
               </p>
-              <span className="p-medium-8 md:p-medium-10 p-semibold-10 w-min rounded-full bg-green-300 md:bg-opacity-80 px-4 py-1 text-green-60">
+              {/* <span className="p-medium-8 md:p-medium-10 p-semibold-10 w-min rounded-full bg-green-300 md:bg-opacity-80 px-4 py-1 text-green-60">
                   {event.isFree ? 'FREE' : `$${event.price}`}
-              </span>
+              </span> */}
             </div>
           </div>
           <Link 
